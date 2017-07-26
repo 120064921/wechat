@@ -32,7 +32,7 @@ namespace Overtrue\Wechat\Utils;
 class XML
 {
     /**
-     * XML 转换为数组.
+     * XML 转换为数组. 哈哈
      *
      * @param string $xml XML string
      *
